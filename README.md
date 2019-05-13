@@ -12,8 +12,10 @@ The file demo.m shows how to prepare batch octree inputs for the network, and us
  
 If you find our work useful in your research, please consider citing:  
 @article{lei2019octree,  
-<pre>title={Octree guided CNN with Spherical Kernels for 3D Point Clouds},  
-     author={Lei, Huan and Akhtar, Naveed and Mian, Ajmal},  
-     journal={IEEE Conference on Computer Vision and Pattern Recognition},  
-     year={2019}  
+<pre>
+title={Octree guided CNN with Spherical Kernels for 3D Point Clouds},  
+author={Lei, Huan and Akhtar, Naveed and Mian, Ajmal},  
+journal={IEEE Conference on Computer Vision and Pattern Recognition},  
+year={2019}  
+<pre>
 }
