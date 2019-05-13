@@ -2,7 +2,7 @@
 Octree guided cnn with spherical kernels for 3D point clouds
 
 We use matconvnet in out experiment and hence implement the spherical kernel in a matconvnet style. The file getOctreeBatch.m 
-shows how we organize simple batch point clouds after octree construction. The codes to Octree construction is from OpenCV.
+shows how we organize simple batch point clouds after octree construction. We use the codes in OpenCV for Octree construction which proves to be quite efficient.
 
 For ubuntu system, use the file mexSources_ubuntu.m to compile the source files.  We have compiled the files successfully under the configuration Matlab2017b+CUDA8.0+gcc4.8.  
 For windows system, use mexSources_windows.m instead. Our configuration is Matlab2017b+CUDA8.0+VS2015.
