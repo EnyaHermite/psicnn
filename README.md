@@ -9,7 +9,8 @@ For windows system, use mexSources_windows.m instead. Our configuration is Matla
 
 The file demo.m shows how to prepare batch octree inputs for the network, and use the spherical kernel to perform convolutions. 
 
-If you find our work useful in your research, please consider citing: 
+If you find our work useful in your research, please consider citing:   
+
 @article{lei2019octree,  
 title={Octree guided CNN with Spherical Kernels for 3D Point Clouds},  
 author={Lei, Huan and Akhtar, Naveed and Mian, Ajmal},  
