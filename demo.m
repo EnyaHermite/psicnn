@@ -10,7 +10,7 @@ clc;clear;close all;
 rng(100);
 ptCloud = load('bathtub.mat');
 points = ptCloud.bathtub;
-batch_size = 2;
+batch_size = 16;
 batchData = repmat(reshape(points,[1,size(points)]),[batch_size,1,1]);
 
 %---------------------------------------------------------
