@@ -38,7 +38,6 @@ net(end).derOutput = randn(1, 1, featSize(end), net(end).map(3,end)+1, 'single')
 %---------------------------------------------------------
 %                                 forward propagation test
 %---------------------------------------------------------
-addpath('./debug_helper');
 gpuDevice; % reset gpuDevice
 
 fprintf('----begin of forward test----\n\n');
