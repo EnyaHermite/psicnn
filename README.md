@@ -1,5 +1,5 @@
 # psicnn
-Octree guided cnn with spherical kernels for 3D point clouds 
+## Octree guided cnn with spherical kernels for 3D point clouds 
 
 ![alt text](https://github.com/hlei-ziyan/psicnn/blob/master/doc/Archy.png)  
 
