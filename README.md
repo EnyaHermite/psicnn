@@ -1,5 +1,6 @@
 # psicnn
 Octree guided cnn with spherical kernels for 3D point clouds
+![alt text](https://github.com/hlei-ziyan/psicnn/blob/master/doc/Archy.png)
 
 We use matconvnet in out experiment and hence implement the spherical kernel in a matconvnet style. The file getOctreeBatch.m 
 shows how we organize simple batch point clouds after octree construction. We use the codes in OpenCV for Octree construction which proves to be quite efficient.
@@ -17,3 +18,4 @@ author={Lei, Huan and Akhtar, Naveed and Mian, Ajmal},
 journal={IEEE Conference on Computer Vision and Pattern Recognition},  
 year={2019}  
 }
+https://github.com/hlei-ziyan/psicnn/blob/master/doc/Archy.png
