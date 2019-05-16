@@ -20,4 +20,3 @@ author={Lei, Huan and Akhtar, Naveed and Mian, Ajmal},
 journal={IEEE Conference on Computer Vision and Pattern Recognition},  
 year={2019}  
 }
-https://github.com/hlei-ziyan/psicnn/blob/master/doc/Archy.png
