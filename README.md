@@ -1,7 +1,7 @@
 # psicnn
-Octree guided cnn with spherical kernels for 3D point clouds . 
+Octree guided cnn with spherical kernels for 3D point clouds 
 
-![alt text](https://github.com/hlei-ziyan/psicnn/blob/master/doc/Archy.png) . 
+![alt text](https://github.com/hlei-ziyan/psicnn/blob/master/doc/Archy.png)  
 
 
 We use matconvnet in out experiment and hence implement the spherical kernel in a matconvnet style. The file getOctreeBatch.m 
